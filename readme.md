@@ -1,7 +1,7 @@
  Intel Image Classification CNN model with transfer Learning with Deployment
  
- ![Screenshot (32)](https://user-images.githubusercontent.com/90169527/153885899-0f199b8e-e9ac-4188-8e4b-3a818640d374.png)
- 
+ ![image](https://user-images.githubusercontent.com/90169527/153900910-6ba30231-37f8-4e14-a3a2-c57eb3d3283e.png)
+
  
 The model was deployed on Heruko with help of Flask app
  Deployed App link - https://intel-image-classify.herokuapp.com/
