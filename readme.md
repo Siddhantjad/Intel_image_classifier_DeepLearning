@@ -6,7 +6,7 @@
 The model was deployed on Heruko with help of Flask app
  Deployed App link - https://intel-image-classify.herokuapp.com/
  
- 
+ # About
  Here i trained the Convolution Neural Network with Intel image dataset having 6 classes namely: 
 1. Mountain
 2. Sea 
@@ -44,10 +44,10 @@ https://user-images.githubusercontent.com/90169527/154010865-ffa6ee90-6529-42b5-
 
 ![1_Y1y83HN7oI98EJT3LQgv-g](https://user-images.githubusercontent.com/90169527/153884075-d23112c9-a327-4b76-a1f4-0d033c392140.png)
 
-SCOPE:
+# SCOPE:
 Image Classification app can be used for classification of images.
 
-CONCLUSION:
+# CONCLUSION:
 Image Scaling, Normalisation and Augmentaion is important step in training CNN model
 Transfer learning VGG16 pretrained model was selected for deployment with accuracy of 99%.
 
