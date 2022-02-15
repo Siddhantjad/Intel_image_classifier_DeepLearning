@@ -36,6 +36,12 @@ STEPS FOLLOWED FOR MODEL TRAINING:
 5. Model was trained and saved as intel_model.h5 file
 6. App Deployed on Heruko link- https://intel-image-classify.herokuapp.com/
 
+
+
+https://user-images.githubusercontent.com/90169527/154010865-ffa6ee90-6529-42b5-91f3-796b12bd32fe.mp4
+
+
+
 ![1_Y1y83HN7oI98EJT3LQgv-g](https://user-images.githubusercontent.com/90169527/153884075-d23112c9-a327-4b76-a1f4-0d033c392140.png)
 
 SCOPE:
