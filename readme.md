@@ -37,8 +37,8 @@ STEPS FOLLOWED FOR MODEL TRAINING:
 6. App Deployed on Heruko link- https://intel-image-classify.herokuapp.com/
 
 
+![Siddhantjad_Intel_image_classifier_DeepLearning](https://user-images.githubusercontent.com/90169527/155271957-a091536d-a832-4512-982d-e878801d1466.gif)
 
-https://user-images.githubusercontent.com/90169527/154010865-ffa6ee90-6529-42b5-91f3-796b12bd32fe.mp4
 
 
 
