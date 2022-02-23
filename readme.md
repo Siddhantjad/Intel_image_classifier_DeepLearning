@@ -36,6 +36,8 @@ STEPS FOLLOWED FOR MODEL TRAINING:
 5. Model was trained and saved as intel_model.h5 file
 6. App Deployed on Heruko link- https://intel-image-classify.herokuapp.com/
 
+### APP DEMO:
+
 
 ![Siddhantjad_Intel_image_classifier_DeepLearning](https://user-images.githubusercontent.com/90169527/155271957-a091536d-a832-4512-982d-e878801d1466.gif)
 
